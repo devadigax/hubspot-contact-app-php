@@ -1,0 +1,12 @@
+{
+    "require": {
+        "hubspot/hubspot-php": "~4.0",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
